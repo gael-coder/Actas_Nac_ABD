@@ -1,0 +1,113 @@
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.exe
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.dll
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.Menu.resources
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.PaisesFrm.resources
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.Resources.resources
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.GenerateResource.cache
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.AssemblyInfo.vb
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.CopyComplete
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.dll
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\refint\Actas_Nac_Rocio.dll
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.pdb
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.deps.json
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.runtimeconfig.json
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.pdb
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.genruntimeconfig.cache
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\ref\Actas_Nac_Rocio.dll
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.OficialiasFrm.resources
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.ParentescoFrm.resources
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.EstadosFrm.resources
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.Login.resources
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.DomicilioFrm.resources
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.DatosActaFrm.resources
+C:\Users\Diana\Desktop\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.TestigosFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.AssemblyReference.cache
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.ColoniaFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.DatosActaFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.DomicilioFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.EstadosFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.OficialiasFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.PaisesFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.ParentescoFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.TestigosFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.Resources.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.Login.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.Menu.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.GenerateResource.cache
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.AssemblyInfoInputs.cache
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.AssemblyInfo.vb
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.CoreCompileInputs.cache
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.dll
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\refint\Actas_Nac_Rocio.dll
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.pdb
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.exe
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.deps.json
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.runtimeconfig.json
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.dll
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.pdb
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.CopyComplete
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.genruntimeconfig.cache
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\ref\Actas_Nac_Rocio.dll
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.MunicipioFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.ReportesFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.RegistroNvoFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.RegistradoFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.PorMunicipioFrm.resources
+C:\Users\VTOLW\Documents\Rocío\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.PorFechaFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.exe
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.deps.json
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.runtimeconfig.json
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.dll
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\Actas_Nac_Rocio.pdb
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.AssemblyReference.cache
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.ColoniaFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.DatosActaFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.DomicilioFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.EstadosFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.MunicipioFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.OficialiasFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.PaisesFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.ParentescoFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.RegistradoFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.RegistroNvoFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.TestigosFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.Resources.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.Login.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.Menu.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.PorFechaFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.PorMunicipioFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.ReportesFrm.resources
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.GenerateResource.cache
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.AssemblyInfoInputs.cache
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.AssemblyInfo.vb
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.CoreCompileInputs.cache
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.vbproj.CopyComplete
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.dll
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\refint\Actas_Nac_Rocio.dll
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.pdb
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\Actas_Nac_Rocio.genruntimeconfig.cache
+D:\carpeta gael 2\Documentos\tareas semestre 5\administracion de base de datos\Actas_Nac_Rocio\obj\Debug\net6.0-windows\ref\Actas_Nac_Rocio.dll

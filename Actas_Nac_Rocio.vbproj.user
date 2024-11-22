@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Formularios\ColoniaFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\DatosActaFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\DomicilioFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\EstadosFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\MunicipioFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\ParentescoFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\RegistradoFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\RegistroNvoFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principales\Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Principales\Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\OficialiasFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\PaisesFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\TestigosFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\PorFechaFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\PorMunicipioFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\ReportesFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
